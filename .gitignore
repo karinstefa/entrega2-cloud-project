@@ -1,0 +1,8 @@
+#ignora la carpeta con los datos del SIVICAP y el diccionario
+#/datos
+__pycache__/
+Cris237098.ogg
+file_example_OOG_1MG.mp3
+file_example_OOG_1MG.ogg
+Rene895714.ogg
+API_send_file.cpython-39.pyc
